@@ -1,0 +1,54 @@
+# STM32CubeIDE/TrueSTUDIO
+*.launch
+.settings/
+.cproject
+.project
+.idea/
+.vscode/
+*.mxproject
+*.log
+
+# Build folders
+Debug/
+Release/
+build/
+Bin/
+Objects/
+
+# Compiled Object files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.obj
+*.dep
+*.su
+
+# Backup / Temp files
+*.bak
+*~
+*.swp
+*.swo
+*.svd
+
+# System or IDE generated
+*.user
+.ipch/
+*.DS_Store
+Thumbs.db
+
+# Keil MDK files (if applicable)
+*.axf
+*.crf
+*.d
+*.iex
+*.lnp
+*.htm
+*.tra
+
+# Log or temporary files
+*.log
+*.tmp
